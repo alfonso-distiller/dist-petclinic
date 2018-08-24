@@ -42,4 +42,4 @@ jobs:
 reports:
   sonar:
     steps:
-      - run: mvn sonar:sonar       
+      - run: mvn sonar:sonar
