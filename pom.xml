@@ -29,8 +29,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
+		<sonar.organization>alfonso-distiller-github</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>08d575813e82acd86213c06a32cd0d5fa8095a76</sonar.login>
 	</properties>
-
 	<dependencies>
 
 
