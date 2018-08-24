@@ -1,17 +1,10 @@
 package dist.examples.petclinic.model;
 
-/**
- * Created by jt on 7/13/18.
- */
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
 public class PetType {
-
     private String name;
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
 }
