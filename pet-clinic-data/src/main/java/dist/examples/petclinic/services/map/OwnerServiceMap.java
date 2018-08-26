@@ -34,8 +34,7 @@ public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements 
 
 	@Override
 	public Owner findByLastName(String lastName) {
-		// TODO Auto-generated method stub
-		return null;
+		throw new UnsupportedOperationException("Yet to be implemented");
 	}
 
 }
