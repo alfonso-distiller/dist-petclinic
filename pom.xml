@@ -3,7 +3,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-
+    
 	<groupId>dist.examples</groupId>
 	<artifactId>sfg-pet-clinic</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
@@ -12,6 +12,8 @@
 		<module>pet-clinic-data</module>
 		<module>pet-clinic-web</module>
 	</modules>
+
+    <!-- sample comment -->
 
 	<packaging>pom</packaging>
 
